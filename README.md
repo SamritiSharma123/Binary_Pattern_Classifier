@@ -3,6 +3,12 @@
 ## Project Overview
 
 The **Binary Pattern Classifier** is a machine learning mini project developed using **PyTorch** and **Streamlit**. The project implements a single-layer perceptron to classify binary inputs based on a selected logic gate (AND or OR). After training, the model is deployed through an interactive Streamlit interface that allows users to provide binary inputs and obtain predictions along with the learned model parameters.
+<img width="1735" height="625" alt="image" src="https://github.com/user-attachments/assets/a607f470-5ab0-4446-a0cb-9b7a1ee95796" />
+<img width="1807" height="741" alt="image" src="https://github.com/user-attachments/assets/d4a8f68c-8337-43d9-80f5-c920382aaf4a" />
+<img width="1893" height="757" alt="image" src="https://github.com/user-attachments/assets/e65c3b70-e6eb-45e1-b042-9d2936aaae70" />
+<img width="1865" height="416" alt="image" src="https://github.com/user-attachments/assets/be070337-77e7-49fa-bb22-9fb37c9576e2" />
+
+
 
 The project demonstrates the complete workflow of building a simple neural network, training it using gradient descent, saving the trained model, and deploying it as a user-friendly web application.
 
